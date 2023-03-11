@@ -82,6 +82,7 @@ language a page is written in. Google, for instance, can use the `lang`
 attribute to know when to prompt users about translating web content.
 
 ```html
+
 <html lang="en"></html>
 ```
 
